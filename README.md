@@ -130,6 +130,7 @@ Demo logins are listed in [`backend/README.md`](backend/README.md).
 | Type or import errors after pulling changes | Re-run `npm install`. |
 
 ## 🧱 Built with
+Netlify:  https://fundsroom-erp.netlify.app/
 
 TanStack Start · React · TypeScript · Tailwind CSS · TanStack Query · Zod ·
 PostgreSQL · Express · JWT · bcrypt · Vitest
